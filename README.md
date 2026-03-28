@@ -1,6 +1,19 @@
-# sistema-escolar-tecnico
-Sistema de banco de dados escolar baseado na visão do aluno, desenvolvido em MySQL.
+# SISTEMA-ESCOLAR-TECNICO
 
-Projeto de banco de dados simulando um sistema escolar.
+Sistema de banco de dados escolar baseado na visão do aluno.
+Projeto criado para estudo de modelagem de dado, SQL e desenvolvimento de sitemas.
 
---Em desenvolvimento--
+#STATUS
+ --Em desenvolvimento--
+ 
+#Sobre o projeto
+Esté sistema simula um ambiente escolar aonde foi baseado na visão do aluno, processos como administrativos e outros, foram abstraídos, até para facilitar o entendimento do projeto como um todo.
+
+#Modelagem conceitual
+Veja a explicação completa aqui.
+![modelagem conceitual](docs/modelagem_conceitual.md)
+
+#Estruturaa do projeto
+- diagramas -> imagens dos diagramas
+- docs -> explicações detalhadas
+- sql -> scripts do banco
