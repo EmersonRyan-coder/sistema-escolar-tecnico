@@ -11,7 +11,7 @@ Esté sistema simula um ambiente escolar aonde foi baseado na visão do aluno, p
 
 #Modelagem conceitual
 Imagem.
-[Ver diagrama](../diagrama_v1.jpeg)
+![Ver diagrama](../diagrama_v1.jpeg)
 Veja a explicação completa aqui.
 ![modelagem conceitual](docs/modelagem_conceitual.md)
 
