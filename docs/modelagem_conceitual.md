@@ -11,7 +11,7 @@ Esse diagrama representa a estrutura de um sistema de escola técnica, focado na
 O foco desse diagrama é para entender como que as entidades se relacionam dentro do sistema.
 
 
-#📌observações:
+## 📌observações:
 - As PKs estão destacadas em verde.
 - As FKs estão destacadas em roxo.
 - Nessa explicação o foco é sobre os atributos e relacionamentos.
