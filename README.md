@@ -15,7 +15,7 @@ Imagem.
 Veja a explicação completa aqui.
 ![modelagem conceitual](docs/modelagem_conceitual.md)
 
-## Estruturaa do projeto
+## Estrutura do projeto
 - diagramas -> imagens dos diagramas
 - docs -> explicações detalhadas
-- sql -> scripts do banco
+- SQL -> scripts do banco
