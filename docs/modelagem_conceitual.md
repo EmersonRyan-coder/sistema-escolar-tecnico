@@ -24,7 +24,7 @@ O foco deste diagrama é compreender como as entidades se relacionam no sistema.
 - CPF
 - Data de nascimento
 - Telefone
-- E-mail
+- Email
 - Endereço
 
  ## Matrículas
@@ -43,13 +43,12 @@ Relaciona o aluno a uma turma.
  - Nome
  - CPF
  - Telefone
- - E-mail
+ - Email
  - Especialidade: Área de atuação ou formação
  
   ## Cursos
 ### Descrição: Representa os cursos oferecidos na instituição.
-Um curso pode possuir várias turmas.
-Um curso pode possuir várias matérias.
+Um curso pode possuir várias turmas e matérias.
 ### Atributos:
 - Nome: Nome de cada curso
 - Carga horária: Quantas horas o curso tem no total
