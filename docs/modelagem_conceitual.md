@@ -28,10 +28,10 @@ O foco deste diagrama é compreender como as entidades se relacionam no sistema.
 - Endereço
 
  ## Matrículas
-Relaciona o aluno a uma turma.
+### Descrição: Relaciona o aluno a uma turma.
 ### Atributos:
-- FK ID aluno: Identificador do aluno
-- FK ID turma: Identificador da turma
+- (FK) ID aluno: Identificador do aluno
+- (FK) ID turma: Identificador da turma
 - Data da matrícula: Data que foi criada a matrícula
 - Status: Indica se a matrícula está Ativa, Trancada, Em espera ou Cancelada
   ### Observações:
@@ -54,6 +54,17 @@ Um curso pode possuir várias turmas e matérias.
 - Carga horária: Quantas horas o curso tem no total
 - Início: Data de início do curso
 - Término: Data de fim de curso
+
+  ## Turmas
+### Descrição: Representa uma turma vinculada a um curso, contendo informações como
+horário e período das aulas.
+### Atributos:
+- Nome: Identificador da turma
+- Horário: Período em que as aulas ocorrem
+- Data de início: Data de início das aulas
+- Data de fim: Data de término  das aulas
+- (FK) ID do curso: Identifica qual curso a turma pertence
+  
  
 ## 🚨 Em desenvolvimento
 Este é um modelo inicial da modelagem conceitual.
